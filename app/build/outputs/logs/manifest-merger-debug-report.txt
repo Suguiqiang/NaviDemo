@@ -1,0 +1,647 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:2:1-274:12
+INJECTED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:2:1-274:12
+INJECTED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:2:1-274:12
+INJECTED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:2:1-274:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a38eac5bb45711c11eb8985a71ce88df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/62854fa1113f1c2d2f78fc1f33e8f80c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/f5f65c2b6c528e6fa9040a94bf6bb847/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ff7abf3d60bfafece3fa9163f159683d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/93a59490f069fa8cd8981f13ec717aa2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f0f1bf34d719670244866d6aa888fd68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/386d3a3da0b6705f2cfc14986c0a665a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6529510280fae8252a1c7c3522b501bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8ad00880840a33b13acbe468b10716d3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7c361196a5de4893932be8ae8a14f22c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/5a426130f2850ac4788646ab75f1046b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c51caec45ea7493bcb80cee324acadd2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/8fadfd7eab11022ea8d7e190931b6fe5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/da7284aeda26b48a903afd0bf10ee0b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ec1e41d1c28d6363d81dbd387855c527/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e5895347c38f6262ba2ebe246bfe8ee4/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a2267daac16fc4a7cb3139e0b81cec4f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/qiang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ea8b2c72e4a69177817b262ca20b8163/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/fab8b5606a703f15830e5e772439caca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ae55b3655d57369afb287ee89e0e79b7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6642cd4ab6feb38348e1c84e823b04b7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/qiang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5612cfffa6c8deb988bf943dbea342cd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/qiang/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/badecd54ee4e256a0e240f68ec81370f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/qiang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d2fae440de1dbf44b30bbca885d6ad5f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/qiang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/06e360cc08226f7e45c159707d9fb5b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5e726a20fba90e1ac5791fcea39610ee/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:2:1-274:12
+INJECTED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:2:1-274:12
+INJECTED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:2:1-274:12
+	package
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:14:22-72
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:15:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:17:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:18:22-77
+application
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:20:5-272:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ec1e41d1c28d6363d81dbd387855c527/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ec1e41d1c28d6363d81dbd387855c527/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e5895347c38f6262ba2ebe246bfe8ee4/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e5895347c38f6262ba2ebe246bfe8ee4/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ec1e41d1c28d6363d81dbd387855c527/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:24:9-41
+	android:icon
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:23:9-45
+	android:allowBackup
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:22:9-36
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:25:9-51
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:21:9-30
+meta-data#com.amap.api.v2.apikey
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:26:9-28:37
+	android:value
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:28:13-34
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:27:13-50
+service#com.amap.api.location.APSService
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:29:9-68
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:29:18-65
+activity#com.amap.navi.demo.activity.IndexActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:30:9-39:20
+	android:screenOrientation
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:33:13-49
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:31:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:37:27-74
+activity#com.amap.api.navi.AmapRouteActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:40:9-42:77
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:42:13-74
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:41:13-63
+activity#com.amap.navi.demo.activity.BasicNaviActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:43:9-47:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:46:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:45:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:47:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:44:13-55
+activity#com.amap.navi.demo.activity.CustomZoomInIntersectionViewActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:48:9-52:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:51:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:50:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:52:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:49:13-74
+activity#com.amap.navi.demo.activity.CustomRouteActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:53:9-57:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:56:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:55:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:57:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:54:13-57
+activity#com.amap.navi.demo.activity.CustomDriveWayViewActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:58:9-62:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:61:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:60:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:62:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:59:13-64
+activity#com.amap.navi.demo.activity.HudDisplayActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:63:9-67:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:66:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:65:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:67:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:64:13-56
+activity#com.amap.navi.demo.activity.IntelligentBroadcastActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:68:9-72:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:71:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:70:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:72:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:69:13-66
+activity#com.amap.navi.demo.activity.RoutePlanningActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:73:9-78:63
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:76:13-45
+	android:windowSoftInputMode
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:78:13-60
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:75:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:77:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:74:13-59
+activity#com.amap.navi.demo.activity.GPSNaviActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:79:9-83:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:82:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:81:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:83:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:80:13-53
+activity#com.amap.navi.demo.activity.CustomTrafficBarViewActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:84:9-88:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:87:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:86:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:88:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:85:13-66
+activity#com.amap.navi.demo.activity.CustomTrafficProgressBarActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:89:9-93:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:92:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:91:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:93:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:90:13-70
+activity#com.amap.navi.demo.activity.SimpleNaviActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:94:9-98:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:97:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:96:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:98:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:95:13-56
+activity#com.amap.navi.demo.activity.GetNaviStepsAndLinksActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:99:9-103:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:102:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:101:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:103:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:100:13-66
+activity#com.amap.navi.demo.activity.NorthModeActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:104:9-108:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:107:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:106:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:108:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:105:13-55
+activity#com.amap.navi.demo.activity.OverviewModeActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:109:9-113:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:112:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:111:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:113:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:110:13-58
+activity#com.amap.navi.demo.activity.BasicWalkNaviActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:114:9-118:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:117:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:116:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:118:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:115:13-59
+activity#com.amap.navi.demo.activity.UseExtraGpsDataActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:119:9-123:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:122:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:121:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:123:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:120:13-61
+activity#com.amap.navi.demo.activity.CustomCarActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:124:9-128:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:127:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:126:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:128:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:125:13-55
+activity#com.amap.navi.demo.activity.CustomRouteTextureInAMapNaviViewActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:129:9-133:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:132:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:131:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:133:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:130:13-78
+activity#com.amap.navi.demo.activity.CustomDirectionViewActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:134:9-138:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:137:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:136:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:138:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:135:13-65
+activity#com.amap.navi.demo.activity.CustomTrafficButtonViewActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:139:9-143:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:142:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:141:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:143:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:140:13-69
+activity#com.amap.navi.demo.activity.CustomNextTurnTipViewActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:144:9-148:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:147:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:146:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:148:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:145:13-67
+activity#com.amap.navi.demo.activity.CustomZoomButtonViewActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:149:9-153:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:152:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:151:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:153:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:150:13-66
+activity#com.amap.navi.demo.activity.CustomOverviewButtonViewActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:154:9-158:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:157:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:156:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:158:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:155:13-70
+activity#com.amap.navi.demo.activity.RestRouteShowActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:159:9-163:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:162:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:161:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:163:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:160:13-59
+activity#com.amap.navi.demo.activity.RouteNaviActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:164:9-168:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:167:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:166:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:168:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:165:13-55
+activity#com.amap.navi.demo.activity.SingleRouteCalculateActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:169:9-173:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:172:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:171:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:173:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:170:13-66
+activity#com.amap.navi.demo.activity.WalkRouteCalculateActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:174:9-178:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:177:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:176:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:178:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:175:13-64
+activity#com.amap.navi.demo.activity.RideRouteCalculateActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:179:9-183:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:182:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:181:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:183:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:180:13-64
+activity#com.amap.navi.demo.activity.EmulatorActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:184:9-188:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:187:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:186:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:188:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:185:13-54
+activity#com.amap.navi.demo.activity.custom.CustomUiActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:189:9-193:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:192:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:191:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:193:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:190:13-61
+activity#com.amap.navi.demo.activity.DriverListActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:194:9-198:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:197:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:196:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:198:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:195:13-56
+activity#com.amap.navi.demo.activity.TrunkRouteCalculateActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:200:9-204:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:203:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:202:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:204:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:201:13-65
+activity#com.amap.navi.demo.activity.SetTrunkParamsActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:206:9-210:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:209:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:208:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:210:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:207:13-60
+activity#com.amap.navi.demo.activity.SwitchMasterRoadNaviActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:212:9-216:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:215:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:214:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:216:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:213:13-66
+activity#com.amap.navi.demo.activity.IflyVoiceActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:218:9-222:69
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:221:13-45
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:220:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:222:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:219:13-55
+activity#com.amap.navi.demo.activity.custom.AllCustomDriveWayActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:224:9-228:61
+	android:screenOrientation
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:227:13-49
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:228:13-58
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:226:13-74
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:225:13-70
+activity#com.amap.navi.demo.activity.custom.AllCustomTrafficBarActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:230:9-234:62
+	android:screenOrientation
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:233:13-49
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:234:13-60
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:232:13-74
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:231:13-72
+activity#com.amap.navi.demo.activity.custom.AllCustomCrossingActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:235:9-239:59
+	android:screenOrientation
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:238:13-49
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:239:13-57
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:237:13-74
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:236:13-70
+activity#com.amap.navi.demo.activity.custom.AllCustomCarRouteActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:240:9-244:61
+	android:screenOrientation
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:243:13-49
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:244:13-58
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:242:13-74
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:241:13-70
+activity#com.amap.navi.demo.activity.custom.AllCustomNextRoadInfoActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:245:9-249:73
+	android:screenOrientation
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:248:13-49
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:249:13-70
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:247:13-74
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:246:13-74
+activity#com.amap.navi.demo.activity.custom.AllCustomCameraActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:251:9-255:58
+	android:screenOrientation
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:254:13-49
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:255:13-55
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:253:13-74
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:252:13-68
+activity#com.amap.navi.demo.activity.custom.AllCustomNaviActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:257:9-262:56
+	android:screenOrientation
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:260:13-49
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:262:13-53
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:259:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:261:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:258:13-66
+activity#com.amap.navi.demo.activity.CustomAmapRouteActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:263:9-268:47
+	android:screenOrientation
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:266:13-49
+	android:label
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:268:13-44
+	android:configChanges
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:265:13-74
+	android:theme
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:267:13-66
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:264:13-61
+activity#com.amap.navi.demo.activity.search.SearchPoiActivity
+ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:271:9-71
+	android:name
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml:271:19-68
+uses-sdk
+INJECTED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a38eac5bb45711c11eb8985a71ce88df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a38eac5bb45711c11eb8985a71ce88df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/62854fa1113f1c2d2f78fc1f33e8f80c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/62854fa1113f1c2d2f78fc1f33e8f80c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/f5f65c2b6c528e6fa9040a94bf6bb847/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/f5f65c2b6c528e6fa9040a94bf6bb847/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ff7abf3d60bfafece3fa9163f159683d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ff7abf3d60bfafece3fa9163f159683d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/93a59490f069fa8cd8981f13ec717aa2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/93a59490f069fa8cd8981f13ec717aa2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f0f1bf34d719670244866d6aa888fd68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f0f1bf34d719670244866d6aa888fd68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/386d3a3da0b6705f2cfc14986c0a665a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/386d3a3da0b6705f2cfc14986c0a665a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6529510280fae8252a1c7c3522b501bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6529510280fae8252a1c7c3522b501bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8ad00880840a33b13acbe468b10716d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8ad00880840a33b13acbe468b10716d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7c361196a5de4893932be8ae8a14f22c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7c361196a5de4893932be8ae8a14f22c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/5a426130f2850ac4788646ab75f1046b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/5a426130f2850ac4788646ab75f1046b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c51caec45ea7493bcb80cee324acadd2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c51caec45ea7493bcb80cee324acadd2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/8fadfd7eab11022ea8d7e190931b6fe5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/8fadfd7eab11022ea8d7e190931b6fe5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/da7284aeda26b48a903afd0bf10ee0b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/da7284aeda26b48a903afd0bf10ee0b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ec1e41d1c28d6363d81dbd387855c527/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ec1e41d1c28d6363d81dbd387855c527/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e5895347c38f6262ba2ebe246bfe8ee4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e5895347c38f6262ba2ebe246bfe8ee4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a2267daac16fc4a7cb3139e0b81cec4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a2267daac16fc4a7cb3139e0b81cec4f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/qiang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ea8b2c72e4a69177817b262ca20b8163/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/qiang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ea8b2c72e4a69177817b262ca20b8163/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/fab8b5606a703f15830e5e772439caca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/fab8b5606a703f15830e5e772439caca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ae55b3655d57369afb287ee89e0e79b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ae55b3655d57369afb287ee89e0e79b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6642cd4ab6feb38348e1c84e823b04b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6642cd4ab6feb38348e1c84e823b04b7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/qiang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5612cfffa6c8deb988bf943dbea342cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/qiang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5612cfffa6c8deb988bf943dbea342cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/qiang/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/badecd54ee4e256a0e240f68ec81370f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/qiang/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/badecd54ee4e256a0e240f68ec81370f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/qiang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d2fae440de1dbf44b30bbca885d6ad5f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/qiang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d2fae440de1dbf44b30bbca885d6ad5f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/qiang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/06e360cc08226f7e45c159707d9fb5b8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/qiang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/06e360cc08226f7e45c159707d9fb5b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5e726a20fba90e1ac5791fcea39610ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/qiang/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5e726a20fba90e1ac5791fcea39610ee/AndroidManifest.xml:20:5-44
+INJECTED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qiang/Documents/amap_as_workspace/yyy/NaviDemo/app/src/main/AndroidManifest.xml
